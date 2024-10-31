@@ -1,5 +1,5 @@
 # All ASUCI Basketball Internal Site
 
-Arun malani
+Arun Malani
 Vice Chief Justice, ASUCI
 arun@malani.org
