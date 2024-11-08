@@ -13,11 +13,14 @@ export default function Home() {
           <Link href="/teams">
             <Button variant="outline">Teams</Button>
           </Link>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSffyUeZY6DtVe_BRm2h1LMcuMvOFdqfky17ZE_yIGgg3RUfvQ/viewform" target="_blank" rel="noopener noreferrer">
+          <Link href="/timeline">
+            <Button variant="outline">Timeline</Button>
+          </Link>
+          <a href="https://forms.google.com/your-form-url" target="_blank" rel="noopener noreferrer">
             <Button>Sign Up</Button>
           </a>
         </div>
       </div>
     </div>
   )
-}
+}``
