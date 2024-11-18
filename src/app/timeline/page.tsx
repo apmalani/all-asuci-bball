@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { Home } from 'lucide-react'
 
 const timelineEvents = [
-  { week: "Week 7, Fall", event: "Submission opens for participating teams." },
+  { week: "Week 8, Fall", event: "Submission opens for participating teams." },
   { week: "Week 10, Fall", event: "Submission deadline for participating teams." },
   { week: "Week 1 - 2, Winter", event: "Practice games for participating teams (optional)." },
   { week: "Week 3 - 9, Winter", event: "League games are played." },
